@@ -2,7 +2,7 @@
 
 2. Time complexity is how long an algorithm takes to run until finished and space complexity is how much space is taken up or created when the algorithm is executed.
 
-3. With an array, values are indexed in numeric order starting from 0. With Objects, instead of having a numeric index, you have a key and a value(“key pairs”). These keys become properties in an object and are used to call the values held within them. You can declare an Array using “[“,”]” and declare an Object using “{“,”}”.
+3. With an array, values are indexed in numeric order starting from 0. With Objects, instead of having a numeric index, you have a key and a value(â€œkey pairsâ€). These keys become properties in an object and are used to call the values held within them. You can declare an Array using â€œ[â€œ,â€]â€ and declare an Object using â€œ{â€œ,â€}â€.
 
 4. Objects must have strings or numbers for keys. Everything you use as a key gets converted into a string with Objects. Maps can use any data type for keys and unlike Objects, Maps preserve the order that values are added to them.
 
@@ -14,7 +14,7 @@
 
 8. const can't be reassigned unlike let.
 
-9. Arrow functions don't use “this” so you don't have to call or bind callbacks. Arrow functions also don't need a return if they are created in one line.
+9. Arrow functions don't use â€œthisâ€ so you don't have to call or bind callbacks. Arrow functions also don't need a return if they are created in one line.
 
 10. Rest is used when you don't know how many parameters you are accepting.
 
