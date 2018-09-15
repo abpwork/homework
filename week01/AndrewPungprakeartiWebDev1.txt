@@ -1,0 +1,31 @@
+1. Big O Notation is a way we check efficiency in algorithms. It can be used to check the time and space complexity of algorithms.
+
+2. Time complexity is how long an algorithm takes to run until finished and space complexity is how much space is taken up or created when the algorithm is executed.
+
+3. With an array, values are indexed in numeric order starting from 0. With Objects, instead of having a numeric index, you have a key and a value(“key pairs”). These keys become properties in an object and are used to call the values held within them. You can declare an Array using “[“,”]” and declare an Object using “{“,”}”.
+
+4. Objects must have strings or numbers for keys. Everything you use as a key gets converted into a string with Objects. Maps can use any data type for keys and unlike Objects, Maps preserve the order that values are added to them.
+
+5. Inline only uses as much space as they need and they also place elements side by side(horizontal). Block elements use 100% of their parent's space unless you set a width in them. They also stack vertically meaning they have a new line after each element.
+
+6. Using a CSS framework saves you time. Instead of creating a webpage completely from scratch, you have a starting point that already has a set style. A large amount of companies use their own CSS framework so that all of their elements have the same style when created. Twitter's Bootstrap CSS framework is used in many companies today. Bootstrap makes making webpages faster, easier, and with responsiveness. You can quickly make a webpage that is mobile-first and have it look great on any device. They also have named everything you would encounter so you don't have to come up with your own names for things.
+
+7. var scopes a variable to whichever context it is created in. var also hoists variables to the top of that context. var also allows you to redeclare a variable anywhere in the code. let doesn't hoist values to the top of the context and doesn't allow redeclaration of the variable after it is declared. let is also block scoped when used. 
+
+8. const can't be reassigned unlike let.
+
+9. Arrow functions don't use “this” so you don't have to call or bind callbacks. Arrow functions also don't need a return if they are created in one line.
+
+10. Rest is used when you don't know how many parameters you are accepting.
+
+11. 
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
